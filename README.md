@@ -12,5 +12,5 @@
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Clojure](https://img.shields.io/badge/Clojure-%231A2C34.svg?style=for-the-badge&logo=clojure&logoColor=C1D72E)
 ![Java Microbenchmarking](https://img.shields.io/badge/Java%20Microbenchmarking-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 
